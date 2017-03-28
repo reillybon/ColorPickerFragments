@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab4</string>
+
+    <string-array name="colors">
+        <item>Blanco</item>
+        <item>Rojo</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Cian</item>
+        <item>Magenta</item>
+        <item>Gris</item>
+        <item>Agua</item>
+        <item>Granate</item>
+        <item>Azul Marino</item>
+        <item>Aceituna</item>
+        <item>Morado</item>
+        <item>Plata</item>
+        <item>Teal</item>
+    </string-array>
+
+</resources>
